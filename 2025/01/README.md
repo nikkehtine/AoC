@@ -1,0 +1,13 @@
+# Advent of Code 2025 Day 1
+
+https://adventofcode.com/2025/day/1
+
+## How to run
+
+```sh
+make run
+```
+
+```sh
+make clean # Clean up generated files
+```

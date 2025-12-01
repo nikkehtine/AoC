@@ -6,7 +6,11 @@ build:
 	rustc main.rs -o bin
 
 run: build
-	./bin
+	./bin input.txt
+
+test: build
+	./bin example.txt
 
 clean:
-	rm bin
+	rm -f bin
+	rm -f output.txt

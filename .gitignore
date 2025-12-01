@@ -1,3 +1,9 @@
+# System files
 .DS_Store
+
+# Generated executable
 out
 bin
+
+# Generated answers
+answer.txt

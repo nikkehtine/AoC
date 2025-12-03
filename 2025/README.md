@@ -42,7 +42,7 @@ In no particular order:
 - Zig
 - Swift
 - Elixir
-- Gleam
+- Crystal
 - Haskell
 - OCaml
 - Racket

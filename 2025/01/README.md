@@ -2,7 +2,7 @@
 
 https://adventofcode.com/2025/day/1
 
-**ANSWER**: 999
+**Answer**: `999`
 
 ## Helpful resources
 
